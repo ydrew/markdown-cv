@@ -1,29 +1,27 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Andrew Yao's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Andrew Yao
+Student, Canadian Reserves
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="lyao.andrew@gmail.com">lyao.andrew@gmail.com</a>
+| (514) 562-6339 |
+<a href="https://www.linkedin.com/in/andrew-yao-143711243"> Linkedin </a>
 </div>
 
 
-## Currently
+## Summary
+- Assisted in building the first cybersecurity troop in the Canadian Reserves
+- Experienced in Security Onion and Threat Hunting
+- Certified: GSEC, GCIH, GCIA and GMON
 
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
+## Experience
+### Army Communication Information System Specialist
+<img src="" alt="34 Signals" width="200" height="200"> </img>
+Canadian Armed Forces
+Oct 2019 - Present (4 years)
 
 ## Education
 
@@ -48,12 +46,6 @@ __Trinity College, Cambridge__
 President, *Royal Society*, London, UK
 
 Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 
 ### Journals
 
