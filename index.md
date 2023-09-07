@@ -15,7 +15,7 @@ Student, Canadian Reserves
 ## Summary
 - Assisted in building the first cybersecurity troop in the Canadian Reserves
 - Experienced in Security Onion and Threat Hunting
-- Experienced with Windows and Linux managemant
+- Experienced with Windows and Linux management
 - Certified: GSEC, GCIH, GCIA and GMON
 
 ## Experience
