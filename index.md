@@ -14,42 +14,40 @@ Student, Canadian Reserves
 
 ## Summary
 - Assisted in building the first cybersecurity troop in the Canadian Reserves
-- Experienced in Security Onion and Threat Hunting
-- Experienced with Windows and Linux management
+- Experienced in **Security Onion** and **Threat Hunting**
+- Experienced with **Windows/Linux management** and **Bash scripting**
 
 ## Experience
-<b>Army Communication Information System Specialist</b>\
-Canadian Armed Forces\
-2019 - Present (4 years)
+- **Army Communication Information System Specialist**
+	- Canadian Armed Forces
+	- 2019 - Present
 
 ## Education
-<b>Polytechnique Montréal</b>\
-Electrical and Electronics Engineering\
-2022 - 2026
+- **Polytechnique Montréal**
+	- Electrical Engineering
+	- 2022 - 2026
 
-
-
-<b>Collège Jean-de-Brébeuf</b>\
-Conventum 2014
+- **Collège Jean-de-Brébeuf**
+	- Conventum 2014
 
 ## Certifications
-- GIAC Security Essentials (GSEC)
-- GIAC Certified Incident Handler Certification (GCIH)
-- GIAC Certified Intrusion Analyst Certification (GCIA)
-- GIAC Continuous Monitoring Certification (GMON)
+- **GIAC Certifications**
+	- GIAC Security Essentials (GSEC)
+	- GIAC Certified Incident Handler Certification (GCIH)
+	- GIAC Certified Intrusion Analyst Certification (GCIA)
+	- GIAC Continuous Monitoring Certification (GMON)
 
 ## Achievements
-<b>BrébeufHx</b>\
-Winning Team\
-Brébeuf Hackathon 2018
+- **BrébeufHx**
+	- Winning Team
+	- Brébeuf Hackathon 2018
 
-<b>Letter of Appreciation</b>\
-From the Director of Cyber Operations Force Development - RMC Kingston Detachment\
-CyberX 2023
+- **Letter of Appreciation**
+	- From the Director of Cyber Operations Force Development - RMC Kingston Detachment
+	- CyberX 2023
 
 ## Other
 Availability: 1 week notice
-
 
 <!-- ### Footer
 
