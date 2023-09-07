@@ -16,26 +16,29 @@ Student, Canadian Reserves
 - Assisted in building the first cybersecurity troop in the Canadian Reserves
 - Experienced in Security Onion and Threat Hunting
 - Experienced with Windows and Linux management
-- Certified: GSEC, GCIH, GCIA and GMON
 
 ## Experience
 <b>Army Communication Information System Specialist</b>\
 Canadian Armed Forces\
-Oct 2019 - Present (4 years)
+2019 - Present (4 years)
 
 ## Education
-
-
 <b>Polytechnique Montréal</b>\
 Electrical and Electronics Engineering\
 2022 - 2026
 
 
+
 <b>Collège Jean-de-Brébeuf</b>\
 Conventum 2014
 
-## Achievements
+## Certifications
+- GIAC Security Essentials (GSEC)
+- GIAC Certified Incident Handler Certification (GCIH)
+- GIAC Certified Intrusion Analyst Certification (GCIA)
+- GIAC Continuous Monitoring Certification (GMON)
 
+## Achievements
 <b>BrébeufHx</b>\
 Winning Team\
 Brébeuf Hackathon 2018
@@ -45,7 +48,6 @@ From the Director of Cyber Operations Force Development - RMC Kingston Detachmen
 CyberX 2023
 
 ## Other
-
 Availability: 1 week notice
 
 
