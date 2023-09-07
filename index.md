@@ -42,9 +42,13 @@ Student, Canadian Reserves
 	- Winning Team
 	- Brébeuf Hackathon 2018
 
+- **GIAC Advisory Board**
+	- Member since 2021
+
 - **Letter of Appreciation**
 	- From the Director of Cyber Operations Force Development - RMC Kingston Detachment
 	- CyberX 2023
+
 
 ## Other
 Availability: 1 week notice
