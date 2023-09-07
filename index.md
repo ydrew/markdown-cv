@@ -9,6 +9,8 @@ Student, Canadian Reserves
 <a href="lyao.andrew@gmail.com">lyao.andrew@gmail.com</a>
 | (514) 562-6339 |
 <a href="https://www.linkedin.com/in/andrew-yao-143711243"> Linkedin </a>
+| 
+<a href="https://www.credly.com/users/andrew-yao.34f024d3"> Credly </a>
 </div>
 
 
