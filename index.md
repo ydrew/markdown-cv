@@ -19,28 +19,37 @@ Student, Canadian Reserves
 
 ## Experience
 <b>Army Communication Information System Specialist</b>
+
 Canadian Armed Forces
+
 Oct 2019 - Present (4 years)
 
 ## Education
 
 
 <b>Polytechnique Montréal</b>
+
 Electrical and Electronics Engineering
+
 2022 - 2026
 
 
 <b>Collège Jean-de-Brébeuf</b>
+
 Conventum 2014
 
 ## Achievements
 
 <b>BrébeufHx</b>
+
 Winning Team 
+
 Brébeuf Hackathon 2018
 
 <b>Letter of Appreciation</b>
+
 From the Director of Cyber Operations Force Development - RMC Kingston Detachment
+
 CyberX 2023
 
 ## Other
