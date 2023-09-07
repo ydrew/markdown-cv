@@ -19,65 +19,38 @@ Student, Canadian Reserves
 
 ## Experience
 ### Army Communication Information System Specialist
-<img src="" alt="34 Signals" width="200" height="200"> </img>
+<img src="media/34-signal.png" alt="34 Signals" width="600" height="950"> 
 Canadian Armed Forces
 Oct 2019 - Present (4 years)
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+<img src="media/uni_poly.png" alt="Polytechnique Montréal" width="300" height="140"> 
+### Polytechnique Montréal
+Electrical and Electronics Engineering
+2022 - 2026
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+<img src="media/blason_college_brebeuf.png" alt="Collège Jean-de-Brébeuf" width="200" height="200"> 
+### Collège Jean-de-Brébeuf
+Conventum 2014
 
-- Sizar
+## Achievements
 
-`1667 - death`
-__Trinity College, Cambridge__
+### BrébeufHx
+Winning Team 
+Brébeuf Hackathon 2018
 
-- Fellow
+### Letter of Appreciation
+From the Director of Cyber Operations Force Development - RMC Kingston Detachment
+CyberX 2023
 
+## Other
 
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
+Availability: 1 week notice
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: September 2023 -->
 
 
