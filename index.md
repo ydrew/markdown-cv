@@ -20,24 +20,43 @@ Student, Canadian Reserves
 - Experienced with **Windows/Linux management** and **Bash scripting**
 
 ## Experience
-- **Army Communication Information System Specialist**
-	- Canadian Armed Forces
-	- 2019 - Present
+- **Army Communication Information System Specialist — 2019 - 2021**
+	- 34 Signals Regiment, Canadian Armed Forces, Department of National Defense
+		- Install, remove, troubleshoot, and operate:
+			- Wired and Wireless communications and information systems
+		   	- Radio, satellite, and microwave broadband systems
+			- Fibre optic and copper wire broadband technology
+			- Voice and data network equipment and servers
+  
+- **Cyber Operator — 2021 - present**
+	- 34 Cyber Protection Team, Canadian Forces, Department of National Defense
+		- Monitor infrastructure and information systems for security-related incidents. 
+		- Conduct threat hunting activities and investigate possible IOC’s. 
+		- Lead Incident Responses (IR) when analysis confirms an actionable incident.  
+		- Audit and classify the severity of alerts; assess potential impacts. 
+		- Investigate, document and report information security issues and emerging trends. 
+		- Write security incident reports and vulnerability assessments.
+	 	- Red teaming using real world exploits to emulate APTs.
+		- Participation in several cyber exercises and competitions with NATO/Commonwealth allies and their associated security agencies, including:
+	 		- CSE, NSA, GCHQ, RMC, Westpoint, USAF, USMC, ADF, and others.
 
 ## Education
-- **Polytechnique Montréal**
-	- Electrical Engineering
-	- 2022 - 2026
+- **Polytechnique Montréal — 2022 - 2026 (Hiatus)**
+	- Electrical Engineering:
+		- Coding experience with JavaScript, Python and C++
+		- Mathematical Logic
 
 - **Collège Jean-de-Brébeuf**
 	- Conventum 2014
 
 ## Certifications
 - **GIAC Certifications**
-	- GIAC Security Essentials (GSEC)
-	- GIAC Certified Incident Handler Certification (GCIH)
-	- GIAC Certified Intrusion Analyst Certification (GCIA)
-	- GIAC Continuous Monitoring Certification (GMON)
+	- (GSEC) GIAC Security Essentials
+	- (GCIH) GIAC Certified Incident Handler Certification 
+	- (GCIA) GIAC Certified Intrusion Analyst Certification 
+	- (GMON) GIAC Continuous Monitoring Certification
+- **Royal Military College**
+  	- (IDEAS) Intrusion Detection and Extrusion Analysis Skills 
 
 ## Achievements
 - **BrébeufHx**
