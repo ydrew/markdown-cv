@@ -22,9 +22,10 @@ Student, Canadian Reserves
 ## Experience
 - **Army Communication Information System Specialist — 2019 - 2021**
 	- 34 Signals Regiment, Canadian Armed Forces, Department of National Defense
-		- Install, remove, troubleshoot, and operate:
+		- Detachment Commander with experience of leading small teams.
+		- Technical experience with installing, removing, troubleshooting, and operating:
 			- Wired and Wireless communications and information systems
-		   	- Radio, satellite, and microwave broadband systems
+		   	- Cellular, HF/VHF radio, satellite, and microwave broadband systems
 			- Fibre optic and copper wire broadband technology
 			- Voice and data network equipment and servers
   
@@ -38,13 +39,13 @@ Student, Canadian Reserves
 		- Write security incident reports and vulnerability assessments.
 	 	- Red teaming using real world exploits to emulate APTs.
 		- Participation in several cyber exercises and competitions with NATO/Commonwealth allies and their associated security agencies, including:
-	 		- CSE, NSA, GCHQ, RMC, Westpoint, USAF, USMC, ADF, and others.
+			- CSE, NSA, GCHQ, RMC, Westpoint, USAF, USMC, ADF, and others.
 
 ## Education
 - **Polytechnique Montréal — 2022 - 2026 (Hiatus)**
 	- Electrical Engineering:
 		- Coding experience with JavaScript, Python and C++
-		- Mathematical Logic
+		- Mathematical Logic and circuit design
 
 - **Collège Jean-de-Brébeuf**
 	- Conventum 2014
@@ -56,7 +57,7 @@ Student, Canadian Reserves
 	- (GCIA) GIAC Certified Intrusion Analyst Certification 
 	- (GMON) GIAC Continuous Monitoring Certification
 - **Royal Military College**
-  	- (IDEAS) Intrusion Detection and Extrusion Analysis Skills 
+	- (IDEAS) Intrusion Detection and Extrusion Analysis Skills 
 
 ## Achievements
 - **BrébeufHx**
@@ -69,6 +70,8 @@ Student, Canadian Reserves
 - **Letter of Appreciation**
 	- From the Director of Cyber Operations Force Development - RMC Kingston Detachment
 	- CyberX 2023
+
+## Skills
 
 
 ## Other
