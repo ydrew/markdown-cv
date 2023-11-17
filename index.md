@@ -57,6 +57,7 @@ Student, Canadian Reserves
 	- (GCIA) GIAC Certified Intrusion Analyst Certification 
 	- (GMON) GIAC Continuous Monitoring Certification
 - **Royal Military College**
+	- (SCINS) Short Course in Networks and Security
 	- (IDEAS) Intrusion Detection and Extrusion Analysis Skills 
 
 ## Achievements
@@ -86,6 +87,6 @@ Student, Canadian Reserves
 
 <!-- ### Footer
 
-Last updated: September 2023 -->
+Last updated: November 2023 -->
 
 
