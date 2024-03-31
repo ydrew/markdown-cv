@@ -3,7 +3,7 @@ layout: cv
 title: Andrew Yao's CV
 ---
 # Andrew Yao
-Student, Canadian Reserves
+Student, Canadian Armed Forces Primary Reserve
 
 <div id="webaddress">
 <a href="lyao.andrew@gmail.com">lyao.andrew@gmail.com</a>
@@ -15,9 +15,10 @@ Student, Canadian Reserves
 
 
 ## Summary
-- Assisted in building the first cybersecurity troop in the Canadian Reserves
+- Assisted in building the first cybersecurity troop in the Canadian Armed Forces Primary Reserve
 - Experienced in **Security Onion** and **Threat Hunting**
-- Experienced with **Windows/Linux management** and **Bash scripting**
+- Experienced with **Windows/Linux/SELinux management** and **Bash/Python scripting**
+- Experienced in **Ansible Tower** and **Automation Platform**
 
 ## Experience
 - **Army Communication Information System Specialist — 2019 - 2021**
@@ -30,7 +31,7 @@ Student, Canadian Reserves
 			- Voice and data network equipment and servers
   
 - **Cyber Operator — 2021 - present**
-	- 34 Cyber Protection Team, Canadian Forces, Department of National Defense
+	- 34 Cyber Protection Team, Canadian Armed Forces, Department of National Defense
 		- Monitor infrastructure and information systems for security-related incidents. 
 		- Conduct threat hunting activities and investigate possible IOC’s. 
 		- Lead Incident Responses (IR) when analysis confirms an actionable incident.  
@@ -40,6 +41,11 @@ Student, Canadian Reserves
 	 	- Red teaming using real world exploits to emulate APTs.
 		- Participation in several cyber exercises and competitions with NATO/Commonwealth allies and their associated security agencies, including:
 			- CSE, NSA, GCHQ, RMC, Westpoint, USAF, USMC, ADF, and others.
+- **Intern — 2024 - 2024**
+	- Automation Development Cell, HydroQuebec, Cybersecurity Product Developer (OT)
+   		- Development using Ansible/Awk/Bash/Python
+     		- Tool creation for threat hunting based on SELinux' auditd
+       		- Development for the creation of security oriented products pipeline (CI/CD)
 
 ## Education
 - **Polytechnique Montréal — 2022 - 2026 (Hiatus)**
@@ -72,6 +78,9 @@ Student, Canadian Reserves
 	- From the Director of Cyber Operations Force Development - RMC Kingston Detachment
 	- CyberX 2023
 
+- **UBC Guest Instructor**
+	- Cybersecurity introduction workshop - 2023
+ 
 ## Skills
 - SIEM: Security Onion, ELK Stack, Splunk
 - IDS/IPS Systems: Ubiquiti Firewall (USG), Snort, Suricata, and Zeek
@@ -83,10 +92,11 @@ Student, Canadian Reserves
 - Scripting (Python/Bash/PowerShell)
 - OOP (JavaScript/C++)
 - Virtualization: VMware, Docker
-- Microsoft Active Directory, Group Policies 
+- Microsoft Active Directory, Group Policies
+- CI/CD Development
 
 <!-- ### Footer
 
-Last updated: November 2023 -->
+Last updated: March 2024 -->
 
 
