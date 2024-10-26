@@ -16,12 +16,12 @@ Student, Canadian Armed Forces Primary Reserve
 
 ## Summary
 - Assisted in building the first cybersecurity troop in the Canadian Armed Forces Primary Reserve
-- Experienced in **Security Onion** and **Threat Hunting**
+- Experienced in **SOC management** and **Threat Hunting**
 - Experienced with **Windows/Linux/SELinux management** and **Bash/Python scripting**
 - Experienced in **Ansible Tower** and **Automation Platform**
 
 ## Experience
-- **Army Communication Information System Specialist — 2019 - 2021**
+- **Army Communication Information System Specialist — 2018 - 2021**
 	- 34 Signals Regiment, Canadian Armed Forces, Department of National Defense
 		- Detachment Commander with experience of leading small teams.
 		- Technical experience with installing, removing, troubleshooting, and operating:
@@ -41,14 +41,14 @@ Student, Canadian Armed Forces Primary Reserve
 	 	- Red teaming using real world exploits to emulate APTs.
 		- Participation in several cyber exercises and competitions with NATO/Commonwealth allies and their associated security agencies, including:
 			- CSE, NSA, GCHQ, RMC, Westpoint, USAF, USMC, ADF, and others.
-- **Intern — 2024 - 2024**
+- **Cybersecurity Automation Intern — 2024**
 	- Automation Development Cell, HydroQuebec, Cybersecurity Product Developer (OT)
    		- Development using Ansible/Awk/Bash/Python
      		- Tool creation for threat hunting based on SELinux' auditd
        		- Development for the creation of security oriented products pipeline (CI/CD)
 
 ## Education
-- **Polytechnique Montréal — 2022 - 2026 (Hiatus)**
+- **Polytechnique Montréal — 2022 - 2026**
 	- Electrical Engineering:
 		- Coding experience with JavaScript, Python and C++
 		- Mathematical Logic and circuit design
@@ -65,6 +65,7 @@ Student, Canadian Armed Forces Primary Reserve
 - **Royal Military College**
 	- (SCINS) Short Course in Networks and Security
 	- (IDEAS) Intrusion Detection and Extrusion Analysis Skills 
+	- (DigForIt) Digital Forensics Investigation Techniques
 
 ## Achievements
 - **BrébeufHx**
@@ -97,6 +98,6 @@ Student, Canadian Armed Forces Primary Reserve
 
 <!-- ### Footer
 
-Last updated: March 2024 -->
+Last updated: Oct 2024 -->
 
 
